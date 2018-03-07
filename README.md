@@ -4,7 +4,7 @@ Made in order to answer trivia games on mobile devices. Please do not use it to 
 
 Made by Sai Sameer Pusapaty
 
-#How it was made:
+HOW IT WAS MADE:
 
 
 
